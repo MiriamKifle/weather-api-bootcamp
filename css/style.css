@@ -1,0 +1,93 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+
+* { 
+  background: url(img.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  height: 20%; 
+}
+
+body{
+  color: white; 
+
+
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+h1, h2, h3, button, h4, input {
+  text-align: center; 
+}
+
+input{
+  margin-right: 1%; 
+}
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+#description{
+  color: white; 
+
+}
+
+button{
+  color: white; 
+}
+
+.input{
+  margin-left: 50px; 
+
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(207, 204, 204);
+  opacity: 1;
+
+}
+
+h1{
+  margin-bottom: 5%; 
+}
+
+#but{
+  margin-top: 4%; 
+  border-top: 2%; 
+  width: 10%; 
+  margin-left: 45%; 
+  border: 1px blue none; 
+}
+
+h4{
+  margin-bottom: 5%; 
+}
+
+
+#inputs{
+  background: none; 
+}
+
+body{
+  margin: center;
+  margin-top: 10%;  
+
+}
