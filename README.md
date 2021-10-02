@@ -1,5 +1,5 @@
 ## 🚀 Project: Simple NASA API
-<img src = "WImage.png" width= 58%>
+<img src = "WImage.png" width=90% >
 
 ### 🌞 Goal:
 Enable user to enter a city + country and return the temperature in Fahrenheit. 
