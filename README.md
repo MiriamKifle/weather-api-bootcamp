@@ -1,4 +1,4 @@
-## 🚀 Project: Simple NASA API
+## 🚀 Project: Weather API
 <img src = "WImage.png" width=90% >
 
 ### 🌞 Goal:
